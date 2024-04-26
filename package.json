@@ -1,5 +1,5 @@
 {
-  "name": "pdf-viewer",
+  "name": "@praxive/pdf-viewer",
   "version": "1.0.0",
   "description": "pdf viewer for praxive",
   "main": "index.js",
